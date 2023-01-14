@@ -1,0 +1,39 @@
+body
+{
+    background:lightpink;
+}
+
+.login_div1 , .login_div2
+{
+background:lightseagreen;
+padding: 10px;
+float: none;
+border-radius: 15px;
+}
+
+#player1_name , #player2_name
+{
+    display:inline-block;
+    margin-left: 20px;
+
+}
+
+h2
+{
+    color:white;
+}
+
+button
+{
+    width:30%;
+}
+
+#output
+{
+    background: lightseagreen;
+    border-radius: 10px;
+    border-top: 10px solid lightpink;
+    padding:10px;
+    float: none;
+    text-align: left;
+}
